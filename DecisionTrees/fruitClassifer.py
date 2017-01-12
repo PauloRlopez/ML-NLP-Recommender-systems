@@ -33,9 +33,6 @@ clf = clf.fit(features, labels)
 # print the result according to its features
 print(clf.predict([[170,1]]))
 
-
-
-
 # output
 
 # [1]  it's an orange!
