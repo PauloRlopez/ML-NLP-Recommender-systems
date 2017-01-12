@@ -15,17 +15,16 @@ same for the labels: 0 == "apple", 1 == "orange";
 
 """
 
-# features are the measurements in grams and it texture is either
-# 1 == bumpy or 0 == smooth
+# features are the measurements in grams and its texture
 features = [[140,1], [130,1], [150, 0], [170, 1]]
 
-# The labels are 0 and 1 where 0 ==  orange , 1 == apple
+# The labels are 0 and 1 where 0 == orange , 1 == apple
 labels = [0, 0, 1, 1]
 
 # creating an empty box of rules for apples and oranges
 clf = tree.DecisionTreeClassifier()  # the decision tree classifier
 
-# here is where it gets train
+# fit gets the data trainning
 # fit is the algorithm to find patterns in the data
 
 clf = clf.fit(features, labels)
