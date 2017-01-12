@@ -1,9 +1,9 @@
 # This is a Machine Learning 
 ---
 
-### created 
+### created-- changelog
 
-* January 10, 2017
+* 11-January-2017
 
 ### Thanks
 
