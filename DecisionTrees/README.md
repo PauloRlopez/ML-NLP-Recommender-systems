@@ -1,4 +1,4 @@
-# Classification of a fruit (is it an apple or an orange)
+# Classification of a fruit: is it an apple or an orange?
 ---
 
 > There are two fruits to choose from:
