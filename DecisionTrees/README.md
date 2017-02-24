@@ -3,9 +3,10 @@
 
 > There are two fruits to choose from:
 
-> An orange: 
+> An orange:
 
-![Alt image](https://github.com/PauloRlopez/Machine_Learning/blob/master/DecisionTrees/Images/orange-fruit-vitamins-citrus-fruit.jpg?raw="orange")
+![Alt image](https://github.com/PauloRlopez/Machine_Learning/blob/master/DecisionTrees/Images/orange-small.jpg?raw="orange")
+
 
 > and an apple:
 
