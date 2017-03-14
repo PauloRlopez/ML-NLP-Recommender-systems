@@ -1,6 +1,6 @@
 # Natural Language Processing 
 
-----
+
 ## Overview
 
 The data was gathered from the popular:
