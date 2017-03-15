@@ -1,3 +1,0 @@
-# Apples and Oranges
-
-----
