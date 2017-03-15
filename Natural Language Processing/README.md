@@ -18,8 +18,6 @@ All reviews start with 0 "cool" votes, and there is no limit to how many "cool" 
 
 The "useful" and "funny" columns are similar to the "cool" column.
 
-> 
-
 ----
 ## Dependencies
 
@@ -31,12 +29,15 @@ The "useful" and "funny" columns are similar to the "cool" column.
 
 ----
 ## Purpose:
-# Project
+### Project
 
-*This is a project done for our portfolio in the Data Science Machine Learning boot-camp.
-*
+*This is a project done for our portfolio in the Data Science Machine Learning boot-camp.*
 
 ----
+## Directions
+
+Please run the ipython notebook
+
 ## changelog
 * 26-Feb-2017 re-design
 
