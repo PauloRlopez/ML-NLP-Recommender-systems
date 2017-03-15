@@ -1,7 +1,7 @@
 # Machine Learning 
 ---
 
-NLP & 
+Natural Language Processing *(NLP)* & Recommender systems
 
 ### created-- changelog
 
