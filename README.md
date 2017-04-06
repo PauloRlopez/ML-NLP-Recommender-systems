@@ -38,13 +38,13 @@ I would like to thank the following site where all the data was obtained from.
 * [Grouplens Research: MovieLens](https://grouplens.org/datasets/movielens/)
 
 
-Please rea the README file In order to understand how this data is set-up.
+Please see the README file in order to understand how this data is set-up.
 
 [README FILE](http://files.grouplens.org/datasets/movielens/ml-20m-README.html)
 
 
 #### Disclaimer
 
-
+This project was conducted for a private purpose.
 
 *Thank you*
