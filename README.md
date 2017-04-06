@@ -4,14 +4,10 @@
 
 
 
-
-
-
 ## Purpose
 
 This project invloves recommending users other movies they might enjoy watching.  This is based on other users preferences and ratings.  We will also explore movies that are high correlated with other specific movies.  For instance, the movie *Star War* it is likely to be high correlated with other similar movies from the *Star Star* trilogy or with other popular movies such as *Indiana Jones*.  
 
--
 ### Prerequisites
 
 In order to run the ipython notebook on your desktop make sure you can download and install first [Anaconda](https://www.continuum.io/downloads) and [Python](https://www.python.org/downloads/)
