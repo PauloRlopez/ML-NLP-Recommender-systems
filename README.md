@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This project invloves recommending users other movies they might enjoy watching.  This is based on other users preferences and ratings.  We will also explore movies that are high correlated with other specific movies.  For instance, the movie *Star War* it is likely to be high correlated with other similar movies from the *Star Star* trilogy or with other popular movies such as *Indiana Jones*.  
+This project involves recommending users other movies they might enjoy watching.  This is based on other users preferences and ratings.  We will also explore movies that are high correlated with other specific movies.  For instance, the movie *Star War* it is likely to be high correlated with other similar other users.  
 
 ### Prerequisites
 
