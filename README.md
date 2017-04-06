@@ -45,6 +45,7 @@ Please see the README file in order to understand how this data is set-up.
 
 #### Disclaimer
 
-This project was conducted for a private purpose.
+GroupLens is a research lab in the Department of Computer Science and Engineering at the University of Minnesota
+and they are responsible for fully acquiring the data.
 
 *Thank you*
