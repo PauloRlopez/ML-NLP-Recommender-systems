@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This project involves recommending users other movies they might enjoy watching.  This is based on other users preferences and ratings.  We will also explore movies that are high correlated with other specific movies.  For instance, the movie *Star War* it is likely to be high correlated with other similar other users.  
+We will use only pandas to recommend users other movies they might enjoy watching.  This is based on other users preferences and ratings.  We will also explore movies that are high correlated with other specific movies.  For instance, the movie *Star War* it is likely to be high correlated with other similar other users.  
 
 ### Prerequisites
 
